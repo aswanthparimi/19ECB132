@@ -22,3 +22,26 @@ int main()
      }
      return 0;
 }
+
+
+
+Enter Elements for Matrix of Size 3*4:
+
+5
+8
+2
+1
+5
+9
+3
+6
+2
+9
+4
+3
+
+Two Dimensional Array: 
+
+  5   8   2   1 
+  5   9   3   6 
+  2   9   4   3 
