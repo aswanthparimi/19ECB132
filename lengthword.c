@@ -23,3 +23,7 @@ int main()
     return 0;
 }
 
+
+
+Enter a string : 4
+4 = 1
