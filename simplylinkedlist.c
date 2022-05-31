@@ -63,3 +63,23 @@ void display() {
   }
   printf("\nNo Of Items In Linked List : %d", count);
 }
+
+
+
+
+Singly(Single) Linked List Example - Using Functions
+
+Enter Element for Insert Linked List (-1 to Exit ) : 
+7
+
+Enter Element for Insert Linked List (-1 to Exit ) : 
+6
+
+Enter Element for Insert Linked List (-1 to Exit ) : 
+9
+
+Enter Element for Insert Linked List (-1 to Exit ) : 
+-1
+Display Linked List : 
+# 7 # # 6 # # 9 # 
+No Of Items In Linked List : 3
