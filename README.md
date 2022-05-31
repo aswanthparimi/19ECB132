@@ -8,11 +8,11 @@ C LANG
 [circularlinkedlist.c](circularlinkedlist.c)   
 [doublelinkedlist.c](doublelinkedlist.c)   
 [doublylinkedlist.c](doublylinkedlist.c)   
-[fibanocci.c](fibanocci.c) 
-[lengthword.c](lengthword.c)
-[middlelinkedlist.c](middlelinkedlist.c)
-[modify.c](modify.c)
-[palandrome.c](palandrome.c)
-[exam2.c](exam2.c)
+[fibanocci.c](fibanocci.c)           
+[lengthword.c](lengthword.c)        
+[middlelinkedlist.c](middlelinkedlist.c)        
+[modify.c](modify.c)       
+[palandrome.c](palandrome.c)       
+[exam2.c](exam2.c)        
 
 
