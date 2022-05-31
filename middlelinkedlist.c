@@ -69,3 +69,20 @@ int main()
 
 	return 0;
 }
+
+
+
+5->NULL
+The middle element is [5]
+
+4->5->NULL
+The middle element is [5]
+
+3->4->5->NULL
+The middle element is [4]
+
+2->3->4->5->NULL
+The middle element is [4]
+
+1->2->3->4->5->NULL
+The middle element is [3]
