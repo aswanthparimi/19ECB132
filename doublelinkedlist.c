@@ -245,7 +245,7 @@ void search()
 
 
 
-
+*/output
 *********Main Menu*********
 
 Choose one option from the following list ...
@@ -281,4 +281,4 @@ Choose one option from the following list ...
 6.Show
 7.Exit
 
-Enter your choice?
+Enter your choice?*/
