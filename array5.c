@@ -51,9 +51,9 @@ void main()
 	
     
 
-
+*/output
 Count total number of duplicate elements in an array:
 ----------------------------
 Input the number of elements to be stored in the array :4
 Input 4 elements in the array :
-element - 0 : 
+element - 0 : */
