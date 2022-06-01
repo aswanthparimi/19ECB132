@@ -40,3 +40,14 @@ long int Ifact(int n)
         }
         return fact;
 }
+
+
+
+
+Enter a number : 5
+
+Using Recursion :: 
+Factorial of 5 is 120
+
+Using Iterative :: 
+Factorial of 5 is 120
