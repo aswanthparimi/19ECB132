@@ -9,8 +9,8 @@ printf("\n a^b=%d",a^b);
 }
 
 
-
+*/output
 enter two integers4 5
 a&b=4
  a|b=5
- a^b=1
+ a^b=1*/
