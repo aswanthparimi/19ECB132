@@ -25,5 +25,6 @@ int main()
 
 
 
+*/otuput
 Enter a string : 4
-4 = 1
+4 = 1*/
