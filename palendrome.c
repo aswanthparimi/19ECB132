@@ -29,6 +29,6 @@ int main(){
 
 
 
-
+*/output
 Enter a string:3
-3 is a palindrome
+3 is a palindrome*/
