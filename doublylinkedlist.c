@@ -48,8 +48,8 @@ int main()
 
 
 
-*/output
+/*output
 In Forward Direction
  3  2  1 
 In Backward direction 
- 1  2  3 8*/
+ 1  2  3 8/*
