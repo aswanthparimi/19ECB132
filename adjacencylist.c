@@ -67,3 +67,21 @@ int main() {
 
   return 0;
 }
+
+
+
+
+/*
+output
+ Vertex 0
+: 2 -> 3 -> 1 -> 
+
+ Vertex 1
+: 3 -> 0 -> 
+
+ Vertex 2
+: 0 -> 
+
+ Vertex 3
+: 1 -> 0 -> 
+  /*
