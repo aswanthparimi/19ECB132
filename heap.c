@@ -86,3 +86,13 @@ int main()
 
   printArray(array, size);
 }
+
+
+
+
+
+/*
+output
+Max Heap array: 8 3 6 1 2 4 
+After deleting an element: 8 3 6 1 2 
+/*
