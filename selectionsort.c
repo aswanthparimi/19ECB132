@@ -73,3 +73,20 @@ int main()
      
     return 0;
 }
+
+
+
+
+/*
+output
+Enter total number of elements: 4
+Enter array elements: 
+Enter element   1: 3
+Enter element   2: 6
+Enter element   3: 8
+Enter element   4: 1
+Array elements in Ascending Order:
+1 3 6 8 
+Array elements in Descending Order:
+8 6 3 1 
+*/
